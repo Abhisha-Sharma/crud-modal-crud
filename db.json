@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Anness",
+      "lastName": "Duncan",
+      "email": "renopexa@mailinator.com",
+      "dob": "1970-01-20T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Bates and Acosta Co",
+      "experience": 96,
+      "package": 91,
+      "id": 5
+    },
+    {
+      "firstName": "Alvin",
+      "lastName": "Blair",
+      "email": "beqota@mailinator.com",
+      "dob": "2000-02-17T18:15:00.000Z",
+      "gender": "male",
+      "education": "Interdimate",
+      "company": "Riley Chan Plc",
+      "experience": 70,
+      "package": 86,
+      "id": 6
+    }
+  ]
+}
